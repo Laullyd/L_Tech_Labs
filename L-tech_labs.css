@@ -599,7 +599,7 @@ a {
   width: 100%;
   height: fit-content;
   aspect-ratio: 10 / 10;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .project-image img {
   width: 100%;

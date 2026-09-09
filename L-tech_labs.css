@@ -597,7 +597,7 @@ a {
 }
 .project-image {
   width: 100%;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 10 / 10;
   overflow: hidden;
 }
 .project-image img {
